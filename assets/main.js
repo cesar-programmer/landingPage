@@ -7,8 +7,6 @@ const content = null || document.getElementById('content');
 const options = {
   method: 'GET',
   headers: {
-    'X-RapidAPI-Key': '30e295e8cdmsh78dced76fff328bp141b4djsndfac3d77b95f',
-    'X-RapidAPI-Host': 'poke-info-api.p.rapidapi.com',
   },
 };
 
